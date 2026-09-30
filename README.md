@@ -5,7 +5,7 @@ An end-to-end sales analytics project built in Power BI, following the Codebasic
 📺 Source project: [Codebasics Power BI YouTube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&si=5dCyBWsm8AKLDCVq)
    |   [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDhlZThjZGEtMWQ0OC00N2MxLWIyYWEtZjk1YTA2OGFmMzYwIiwidCI6IjFiZDEyNzA3LTQ4NWQtNDI2OS1hOWY0LTVlNzkwZTI4YjI3MiJ9)
 
-Problem Statement
+*Problem Statement*
 
 AtliQ Hardware supplies computer hardware and peripherals to clients across India, with its headquarters in Delhi and sales offices in multiple regions. As the business grew, the sales director found it hard to get a clear, up-to-date picture of performance. Regional managers reported numbers verbally or through scattered Excel files, which made it difficult to spot trends, weak markets and top customers.
 

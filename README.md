@@ -1,4 +1,3 @@
-Readme · MD
 AtliQ Hardware Sales Performance Dashboard | Power BI
 
 An end-to-end sales analytics project built in Power BI, following the Codebasics Power BI project series. It turns raw sales data for AtliQ Hardware into an interactive dashboard that shows how the business is performing across markets, products, customers and time.

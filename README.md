@@ -3,8 +3,7 @@
 An end-to-end sales analytics project built in Power BI, following the Codebasics Power BI project series. It turns raw sales data for AtliQ Hardware into an interactive dashboard that shows how the business is performing across markets, products, customers and time.
 
 📺 Source project: [Codebasics Power BI YouTube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&si=5dCyBWsm8AKLDCVq)
-
-                   [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDhlZThjZGEtMWQ0OC00N2MxLWIyYWEtZjk1YTA2OGFmMzYwIiwidCI6IjFiZDEyNzA3LTQ4NWQtNDI2OS1hOWY0LTVlNzkwZTI4YjI3MiJ9)
+  [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDhlZThjZGEtMWQ0OC00N2MxLWIyYWEtZjk1YTA2OGFmMzYwIiwidCI6IjFiZDEyNzA3LTQ4NWQtNDI2OS1hOWY0LTVlNzkwZTI4YjI3MiJ9)
 
 Problem Statement
 
